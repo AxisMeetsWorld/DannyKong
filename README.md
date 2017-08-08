@@ -1,2 +1,3 @@
 # DannyKong
 Game built for a friend's birthday
+This is a game, similar to Donkey Kong, in which you click the letter "L" to move the player to the left, and "R" to move the player to the right. Then, you can hit "spacebar" to get the player to jump. There are elevators, and a rotating box that one must jump on in order to get to an elevator going downward. The box has a crate, a tunnel to fall through, a spring, and a lion. If one is caught on the lion or tunnel they die. The spring is the only thing that gets the character to the other side.  The code mainly utilizes if....then conditionals, and there is some parabolic formulas in the code to adjust the characters jump to the right trajectory.
